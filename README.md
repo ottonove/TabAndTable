@@ -1,2 +1,0 @@
-# TabAndTable
-Created with CodeSandbox
